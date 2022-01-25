@@ -1,0 +1,2 @@
+ENTER A STRING
+No
